@@ -30,6 +30,6 @@ partner about master changes.
 
 ## Authors
 * **Emir Ünlütürk**
-* **Taha Darandeli**
+* **Taha Darendeli**
 
 <sup>Contents of the project are subject to change, do keep in mind that project is under active development</sup>
