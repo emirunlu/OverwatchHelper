@@ -1,0 +1,10 @@
+c:\Users\Mentor\Desktop\workspace\owdrafter\bin\Debug\netcoreapp2.0\owdrafter.deps.json
+c:\Users\Mentor\Desktop\workspace\owdrafter\bin\Debug\netcoreapp2.0\owdrafter.runtimeconfig.json
+c:\Users\Mentor\Desktop\workspace\owdrafter\bin\Debug\netcoreapp2.0\owdrafter.runtimeconfig.dev.json
+c:\Users\Mentor\Desktop\workspace\owdrafter\bin\Debug\netcoreapp2.0\owdrafter.dll
+c:\Users\Mentor\Desktop\workspace\owdrafter\bin\Debug\netcoreapp2.0\owdrafter.pdb
+c:\Users\Mentor\Desktop\workspace\owdrafter\obj\Debug\netcoreapp2.0\owdrafter.csproj.CoreCompileInputs.cache
+c:\Users\Mentor\Desktop\workspace\owdrafter\obj\Debug\netcoreapp2.0\owdrafter.AssemblyInfoInputs.cache
+c:\Users\Mentor\Desktop\workspace\owdrafter\obj\Debug\netcoreapp2.0\owdrafter.AssemblyInfo.cs
+c:\Users\Mentor\Desktop\workspace\owdrafter\obj\Debug\netcoreapp2.0\owdrafter.dll
+c:\Users\Mentor\Desktop\workspace\owdrafter\obj\Debug\netcoreapp2.0\owdrafter.pdb
